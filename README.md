@@ -1,2 +1,0 @@
-# FIDS
-Security Project
